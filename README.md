@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**mateobonino/mateobonino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I'm Mateo Bonino, student at Holberton School Uruguay
+![Me](https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47yfegcbpyfzi0kqsz16560satxgxfunzyacn5j2gv&rid=giphy.gif&ct=g)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
