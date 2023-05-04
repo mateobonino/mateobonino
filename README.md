@@ -1,11 +1,7 @@
 # Hi there 👋
 
-#### I'm Mateo Bonino, student at Holberton School Uruguay
+#### I'm Mateo Bonino, graduated Full-Stack Developer at Holberton School Uruguay
 ![Me](https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47yfegcbpyfzi0kqsz16560satxgxfunzyacn5j2gv&rid=giphy.gif&ct=g)
-
-- ##### Python lover fr
-- ##### C lover fr
-- ##### HTML & CSS HATER fr
 
 ### My stats:
 
