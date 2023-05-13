@@ -9,4 +9,4 @@
 
 ### Main technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,expressjs,python,django,flask,c,bash,mysql,postgresql,docker,linux,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,expressjs,nodejs,python,django,flask,c,bash,mysql,postgresql,docker,linux,typescript)](https://skillicons.dev)
